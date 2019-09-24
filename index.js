@@ -47,7 +47,6 @@ function checkCollision(rock) {
 			} else {
 			  return false;
 			}
-			}
   }
 }
 
