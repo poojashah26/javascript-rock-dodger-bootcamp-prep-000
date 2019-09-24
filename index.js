@@ -77,8 +77,6 @@ function checkCollision(rock) {
 		} else {
 			return false;
 		}
-	}
-	return false;
 }
                /**
                * Think about it -- what's happening here?
